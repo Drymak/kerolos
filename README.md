@@ -1,2 +1,2 @@
-# kerolos
+# Kerolos
 Kerolos Gad Personal Website
