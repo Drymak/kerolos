@@ -7,8 +7,8 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
   </head>
   <body>
-    <h1 class="text-5xl font-bold text-center m-10">
-      Kerolos Gad
+    <h1 class="text-3xl font-bold text-center m-10">
+      Hello World
     </h1>
   </body>
 </html>
