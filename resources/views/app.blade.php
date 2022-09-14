@@ -43,7 +43,7 @@
         </div>
         <!--Right Item-->
         <div class="md:w-1/2">
-          <img src="{{ asset('img/illustration-mockups.svg') }}" alt="Hero Image">
+          <img src="{{ asset('img/illustration-intro.svg') }}" alt="Hero Image">
         </div>
     </section>
   </body>
