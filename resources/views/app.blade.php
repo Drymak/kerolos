@@ -7,8 +7,15 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
   </head>
   <body>
-    <h1 class="text-3xl font-bold text-center m-10">
-      Hello World
-    </h1>
+    <!--Navbar-->
+    <nav class="relative container mx-auto p-6">
+      <!--Flex Container-->
+      <div class="flex items-center justify-between">
+        <!--Logo-->
+        <div class="pt-2">
+          <img src="{{ asset('img/logo.svg') }}" alt="Logo">
+        </div>
+      </div>
+    </nav>
   </body>
 </html>
