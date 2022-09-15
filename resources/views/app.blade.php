@@ -47,12 +47,13 @@
         </div>
       </div>
     </section>
+
     <!--Features Section-->
     <section id="features">
       <!--Flex Container-->
       <div class="container flex flex-col px-4 mx-auto mt-10 space-y-12 md:space-y-0 md:felx-row">
         <!--What's Different-->
-        <div class="flex flex-col space-y-12 md:2-1/2">
+        <div class="flex flex-col space-y-12 md:w-1/2">
           <h2 class="max-w-md text-4xl font-bold text-center md:text-left">
             What's different about Manage?
           </h2>
